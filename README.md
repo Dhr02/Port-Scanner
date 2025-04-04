@@ -1,6 +1,6 @@
-# TCP Port Scanner in Python
+# Port Scanner in Python
 
-This project is a multi-threaded **TCP Port Scanner** built using Python. It scans a range of ports on a target IP address to identify which ports are open and what services might be running on them.
+This project is a multi-threaded **Port Scanner** built using Python. It scans a range of ports on a target IP address to identify which ports are open and what services might be running on them.
 
 ## 🔧 Features
 - **Multi-threaded scanning**: Uses multiple threads to speed up the scanning process.
